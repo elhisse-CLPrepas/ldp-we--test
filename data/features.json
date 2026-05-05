@@ -1,0 +1,27 @@
+[
+  {
+    "name": "VS Code",
+    "shortName": "VS",
+    "description": "L’espace de travail pour organiser les fichiers, lire le code et construire la landing page."
+  },
+  {
+    "name": "Codex",
+    "shortName": "AI",
+    "description": "L’assistant de production pour transformer le guide source en fichiers concrets et itérer vite."
+  },
+  {
+    "name": "Git",
+    "shortName": "Git",
+    "description": "Le système de versionnement qui garde une trace claire des étapes importantes."
+  },
+  {
+    "name": "GitHub",
+    "shortName": "Hub",
+    "description": "La plateforme pour partager le projet, collaborer et préparer la publication."
+  },
+  {
+    "name": "Navigateur",
+    "shortName": "Web",
+    "description": "L’outil de contrôle pour tester le rendu local, les liens, le responsive et les messages."
+  }
+]

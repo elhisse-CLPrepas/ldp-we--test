@@ -1,0 +1,18 @@
+[
+  {
+    "question": "Faut-il savoir coder avant le webinaire ?",
+    "answer": "Non. Le format est conçu pour comprendre la logique du projet et produire pas à pas une première version exploitable."
+  },
+  {
+    "question": "Quels outils faut-il installer ?",
+    "answer": "VS Code et Git sont les bases. Un compte GitHub est recommandé pour partager le résultat après le webinaire."
+  },
+  {
+    "question": "Que vais-je obtenir à la fin ?",
+    "answer": "Une landing page responsive, des fichiers organisés, une documentation courte et une logique de commits claire."
+  },
+  {
+    "question": "Le projet utilise-t-il un framework ?",
+    "answer": "Non. La page repose sur HTML, CSS et JavaScript vanilla afin de rester légère, lisible et facile à adapter."
+  }
+]
