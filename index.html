@@ -20,8 +20,10 @@
   <body>
     <a class="skip-link" href="#contenu">Aller au contenu</a>
     <div class="top-flash" role="status">
-      <span class="flash-label">Flash webinaire</span>
-      <span>Atelier pratique : créer, versionner et publier une landing page avec VS Code, Codex, Git et GitHub.</span>
+      <span class="flash-label">Flash nouveau</span>
+      <a class="top-flash-link" href="https://drive.google.com/file/d/1Vjr1x-9jfVizuv3SL85gPruBPC3jS2tf/view?usp=sharing" target="_blank" rel="noopener noreferrer">
+        Replay disponible : enregistrement vidéo du webinaire du 05 mai 2025.
+      </a>
     </div>
     <header class="site-header">
       <a class="brand" href="#hero" aria-label="Retour à l'accueil">
@@ -33,6 +35,7 @@
         <a href="#outils">Outils</a>
         <a href="#methode">Méthode</a>
         <a href="#temoignage">Témoignage</a>
+        <a href="#replay">Replay</a>
         <a href="#affiches">Affiches</a>
         <a href="#faq">FAQ</a>
       </nav>
@@ -50,12 +53,17 @@
           </p>
           <div class="hero-actions" aria-label="Actions principales">
             <a class="button primary" href="#inscription">Rejoindre le webinaire</a>
+            <a class="button replay" href="https://drive.google.com/file/d/1Vjr1x-9jfVizuv3SL85gPruBPC3jS2tf/view?usp=sharing" target="_blank" rel="noopener noreferrer">Voir le replay</a>
             <a class="button highlight" href="#temoignage">Écouter le témoignage</a>
             <a class="button secondary" href="#production">Voir le livrable</a>
           </div>
         </div>
-        <aside class="hero-panel" aria-label="Visuel et parcours du webinaire">
-          <img class="hero-image" src="assets/img/hero.jpg" alt="Visuel LAB-NUM-CTM du webinaire" width="1200" height="630">
+        <aside class="hero-panel" id="replay" aria-label="Enregistrement vidéo et parcours du webinaire">
+          <a class="replay-visual flash-card" href="https://drive.google.com/file/d/1Vjr1x-9jfVizuv3SL85gPruBPC3jS2tf/view?usp=sharing" target="_blank" rel="noopener noreferrer" aria-label="Ouvrir l'enregistrement vidéo du webinaire du 05 mai 2025">
+            <span class="replay-badge">Nouveau</span>
+            <img class="hero-image" src="assets/img/og-image.jpg" alt="Enregistrement vidéo du webinaire LAB-NUM-CTM du 05 mai 2025" width="1200" height="630">
+            <span class="replay-overlay">Voir l'enregistrement vidéo</span>
+          </a>
           <div class="hero-path">
             <span>Idée</span>
             <span>Page web</span>
@@ -262,12 +270,19 @@
       </section>
 
       <section class="cta-section" id="inscription">
-        <div>
+        <div class="cta-copy">
           <p class="eyebrow">Appel à l’action</p>
           <h2>Rejoignez le LAB-NUM-CTM et produisez votre première version.</h2>
-          <p>Un format pratique pour passer de l’idée à une page web versionnée, sans lourdeur technique.</p>
+          <p>Entrez dans le groupe WhatsApp du webinaire pour recevoir les informations, les rappels et les supports pratiques.</p>
+          <div class="cta-badges" aria-label="Avantages du groupe WhatsApp">
+            <span>Infos directes</span>
+            <span>Rappels webinaire</span>
+            <span>Supports partagés</span>
+          </div>
         </div>
-        <a class="button primary" href="mailto:info@clprepas.com?subject=Inscription%20LAB-NUM-CTM">Demander une place</a>
+        <a class="button whatsapp-button" href="https://chat.whatsapp.com/L900Zbek15j3tBtkJnpKaI" target="_blank" rel="noopener noreferrer">
+          Rejoindre sur WhatsApp
+        </a>
       </section>
     </main>
 
