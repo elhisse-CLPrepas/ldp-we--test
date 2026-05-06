@@ -8,11 +8,11 @@ Le projet respecte les exigences principales du cahier des charges pour une prem
 
 ## Points conformes
 
-- Projet : LAB-NUM-CTM - Laboratoire Numérique CTM.
+- Projet : LAB-NUM-IA - Laboratoire Numérique IA.
 - Page statique HTML5 avec CSS séparé et JavaScript séparé.
 - Chemins relatifs uniquement dans la page.
 - Structure demandée : `index.html`, `README.md`, `.gitignore`, `assets/css/style.css`, `assets/js/app.js`, `assets/img/`, `data/faq.json`, `data/features.json`, `docs/guide-utilisation.md`.
-- Sections obligatoires présentes : Hero, Problème, Vision, Outils, Méthode, Production, FAQ, Appel à l’action, Footer CTM.
+- Sections obligatoires présentes : Hero, Problème, Vision, Outils, Méthode, Production, FAQ, Appel à l’action, Footer IA.
 - Outils couverts : VS Code, Codex, Git, GitHub et navigateur.
 - Méthode couverte : idée, production, test, commit, publication.
 - Logo, affiches, image hero et image Open Graph intégrés.

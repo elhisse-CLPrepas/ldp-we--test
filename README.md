@@ -1,4 +1,4 @@
-# LAB-NUM-CTM - Apprendre en produisant
+# LAB-NUM-IA - Apprendre en produisant
 
 Landing page professionnelle pour présenter un webinaire pratique :
 créer une page web avec VS Code, Codex, Git et GitHub.
@@ -19,7 +19,7 @@ idée -> page web -> versionnement -> GitHub -> publication.
 |   |-- js/
 |   |   `-- app.js
 |   `-- img/
-|       |-- logo-ctm.png
+|       |-- logo-ia.png
 |       |-- hero.jpg
 |       |-- og-image.jpg
 |       |-- affiche-annonce.png
